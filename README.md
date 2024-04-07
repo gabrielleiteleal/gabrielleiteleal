@@ -1,7 +1,7 @@
-### Olá! Me chamo Gabriel Leite Leal
+### Hi! I'm Gabriel Leite Leal😃
 
-- 😃 Atualmente me aprofundando em Back-end
-- 👨‍💻 Estudante do IFSertãoPE
+- 👨‍💻 IFSertãoPE student
+- 😁 Currently delving deeper into Back-end
 
 ##
 
